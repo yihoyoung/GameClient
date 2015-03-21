@@ -46,7 +46,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\csCam.cs" />
+     <Compile Include="Assets\Scripts\csEnemyAI.cs" />
+     <Compile Include="Assets\Scripts\csEnemyCreate.cs" />
+     <Compile Include="Assets\Scripts\csFire.cs" />
+     <Compile Include="Assets\Scripts\csPlayerControl.cs" />
      <Compile Include="Assets\Scripts\csPlayerMove.cs" />
+     <Compile Include="Assets\Scripts\csTowerHP.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
